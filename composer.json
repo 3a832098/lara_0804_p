@@ -1,0 +1,15 @@
+{
+    "name": "ncut/lara_0804_p",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\Lara0804P\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GUO CHIH-LING",
+            "email": "s3a832098@studnet.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
