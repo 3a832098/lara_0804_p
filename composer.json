@@ -11,5 +11,7 @@
             "email": "s3a832098@studnet.ncut.edu.tw"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.53"
+    }
 }
